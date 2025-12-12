@@ -1,0 +1,10 @@
+.vs/
+*.ipch
+*.db
+*.obj
+*.tlog
+*.log
+*.idb
+*.pdb
+backendcode/build/
+!backendcode/build/build/bank_ledger.dll
